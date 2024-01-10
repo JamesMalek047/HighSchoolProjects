@@ -1,7 +1,9 @@
 import java.util.Scanner;
 
 /**
- * Cette application est une calculatrice afin de calculer le périmètre de différentes formes géométrique. Les formes sont: le cercle, le carré, le triangle et le rectange en utilisant divers fonctions pour calculer les différentes paramètres. 
+ * Cette application est une calculatrice conçue pour calculer le périmètre de différentes formes géométriques. 
+ * Les formes incluent le cercle, le carré, le triangle et le rectangle,
+ * en utilisant diverses fonctions pour calculer leurs paramètres respectifs. 
  * @author James Malek
  * @version 06 juin
  */
