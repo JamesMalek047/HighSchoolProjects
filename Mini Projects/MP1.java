@@ -1,5 +1,5 @@
 /**
- * Ce programme s'agit d'une énonce introductive d'une dame à Intelligence Artificiel. Seulement 4 lignes au terminal. 
+ * Ce programme est une énonciation introductive d'une femme à l'Intelligence Artificielle, affichée en seulement quatre lignes sur le terminal.
  * @author James Malek
  * @version 18 mars 2022
  */
