@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Ce projet s'agit de demander des questions à l'utilisateur et le traiter pour retourner un énoncé. 
+ * Ce projet consiste à poser des questions à l'utilisateur et à les traiter pour fournir une réponse.
  * @author James Malek
  * @version 19 avril 2022
  */
