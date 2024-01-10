@@ -1,6 +1,9 @@
 import java.util.Scanner;
 /**
- * Exactement même application que While.java mais la différence est avec l'exécution du loop while. Nous utilisons true pour remplacer !...equals.IgnoreCase("");. C'est une façon beaucoup plus simple à manipuler While loop/ 
+ * 
+ * Il s'agit de la même application que While.java, avec une différence dans l'exécution de la boucle while. 
+ * Nous utilisons true pour remplacer !...equalsIgnoreCase(""). 
+ * C'est une méthode beaucoup plus simple pour manipuler la boucle while. 
  * @author James Malek
  * @version 19 avril 2022
  */
