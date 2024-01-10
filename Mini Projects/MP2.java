@@ -1,6 +1,8 @@
 import java.util.Scanner;
 /**
- * Ce programme se sert comme une calculatrice pour déterminer la force du champ gravitationel sur un corps qui y est placé sur n'importe quel planète de notre système solaire incluant pluto même si ce n'est pas une planète.
+ * Ce programme se sert comme une calculatrice pour déterminer la force du champ gravitationel 
+ * sur un corps qui y est placé sur n'importe quel 
+ * planète de notre système solaire incluant pluto même si ce n'est pas une planète.
  * @author James Malek
  * @version 19 avril 2022
  */
