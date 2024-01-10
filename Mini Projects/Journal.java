@@ -6,7 +6,8 @@ import java.time.format.DateTimeFormatter;
 import java.io.File;
 
 /**
- * Ce programme, Journal.java, s'agit d'une application afin de laisser l'utilisateur inséré ce qu'ils veulent dans la documentation et le sauvegarder dans un autre fichier sous la forme de "Journal.txt". 
+ * Ce programme, nommé Journal.java, est une application qui permet à l'utilisateur d'insérer ce qu'il souhaite 
+ * dans un document et de le sauvegarder dans un autre fichier sous le nom de "Journal.txt". 
  * @author James Malek
  * @version 06 juin 2022
  */
