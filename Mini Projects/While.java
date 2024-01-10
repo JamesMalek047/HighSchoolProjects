@@ -1,6 +1,8 @@
 import java.util.Scanner;
 /**
- * Cette application est un petit jeu où l'utilisateur inscrit infiniment (à cause du while loop) mais l'utilisateur va devenir ennuyé. Alors, comme ceci pour arrêter le tourment, il suffit d'inscrire le exitword qui est -99. 
+ * 
+ * Cette application est un petit jeu dans lequel l'utilisateur saisit des données sans fin (en raison de la boucle while), 
+ * mais l'utilisateur finira par s'ennuyer. Ainsi, pour mettre fin à cet ennui, il suffit d'entrer le mot de sortie qui est -99.
  * @author James Malek
  * @version 19 avril 2022
  */
